@@ -1,0 +1,9 @@
+# Compiled Go executable
+/devops-go-api
+
+# Local environment files and secrets
+.env
+
+# Test output
+*.test
+coverage.out
